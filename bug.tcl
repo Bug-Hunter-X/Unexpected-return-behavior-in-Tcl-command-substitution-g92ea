@@ -1,0 +1,1 @@
+proc badproc {x} { puts "$x"; return 1 } badproc a; puts [badproc a]

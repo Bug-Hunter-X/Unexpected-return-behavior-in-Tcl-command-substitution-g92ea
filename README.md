@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Tcl related to the interaction of the `return` statement within a procedure called from within a command substitution. The bug causes unexpected behavior in the return value of the procedure.  The `bug.tcl` file shows the erroneous behavior, while `bugSolution.tcl` provides a corrected version.
